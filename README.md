@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Machine Learning for Marketing
 
 You can use the [editor on GitHub](https://github.com/isjinwl/Machine-Learning-for-Marketing/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
